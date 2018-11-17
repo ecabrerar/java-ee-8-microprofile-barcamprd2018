@@ -1,0 +1,91 @@
+[{
+		"Hora": "9:00-10:00 A.M.",
+		"Nombre": "Luis Contreras",
+		"Tema": "Una imagen vale más mil palabras"
+	}, {
+		"Hora": "9:00-10:00 A.M.",
+		"Nombre": "Clivens",
+		"Tema": "Desarrollar Lenguajes DSL(Domain Specific Language) con Antlr"
+	},
+
+	{
+		"Hora": "9:00-10:00 A.M.",
+		"Nombre": "Eudris Cabrera",
+		"Tema": "Desarrollo de aplicaciones orientada a la nube con Java EE 8 / Jakarta EE y Microprofile"
+	},
+
+	{
+		"Hora": "9:00-10:00 A.M.",
+		"Nombre": "Cindia Espinal",
+		"Tema": "Gestión de Riesgos de Seguridad de Información"
+	},
+
+	{
+		"Hora": "10:00-11:00 A.M.",
+		"Nombre": "Jonathan Garrido",
+		"Tema": "La configuración default es tu enemiga"
+	},
+
+	{
+		"Hora": "10:00-11:00 A.M.",
+		"Nombre": "Edgar Garcia",
+		"Tema": "Software Architect: The Journey"
+	},
+
+	{
+		"Hora": "9:00-10:00 A.M.",
+		"Nombre": "Yhorby Matías",
+		"Tema": "¿Javascript ha muerto? .NET Web Assembly con Blazor"
+	},
+
+	{
+		"Hora": "10:00-11:00 A.M.",
+		"Nombre": "Julissa Mateo",
+		"Tema": "Comunidades tecnológicas para desarrollo profesional"
+	}, {
+		"Hora": "11:00-12:00 A.M.",
+		"Nombre": "Dante Faña",
+		"Tema": "Build a CI/CD Pipeline in the Cloud with less than 10 dollars per month"
+	},
+
+	{
+		"Hora": "11:00-12:00 A.M.",
+		"Nombre": "Alice Pérez",
+		"Tema": "UX GAME: Diseño de experiencia de usuario para video juegos"
+	},
+
+	{
+		"Hora": "9:00-10:00 A.M.",
+		"Nombre": "Hillmer Chona",
+		"Tema": "Java 9, 10, 11 y más"
+	},
+
+	{
+		"Hora": "11:00-12:00 A.M.",
+		"Nombre": "Leonardo Jimenez",
+		"Tema": "Como convertirte en un Full Stack Freelancer"
+	}, {
+		"Hora": "12:00-1:00 A.M.",
+		"Nombre": "Kendra Mazara",
+		"Tema": "Como WAF (Web Application Firewall) protege mis aplicaciones"
+	},
+
+	{
+		"Hora": "12:00-1:00 A.M.",
+		"Nombre": "Pavel Pichardo",
+		"Tema": "Inteligencia Artificial: Como los emprendedores están formando el futuro"
+	},
+
+	{
+		"Hora": "12:00-1:00 A.M.",
+		"Nombre": "Roberto Abreu",
+		"Tema": "No todo se resuelve con arreglos. Estructura de datos al rescate"
+	},
+
+	{
+		"Hora": "12:00-1:00 A.M.",
+		"Nombre": "Cristopher Salas",
+		"Tema": "Asistentes inteligentes, una nueva forma de interacción virtual"
+
+	}
+]
